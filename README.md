@@ -6,12 +6,10 @@
 
 **Clone the github repo**
 
+```git clone https://github.com/AatmanShanker/ffmpeg-script.git```
+
 ## Get started
 
-**To use this just simply type**
-
-```chmod +x record.sh```
-
-**Then run the script by using**
+**Run the script by typing**
 
 ```./record.sh```
