@@ -1,6 +1,6 @@
 # ffmpeg-script
 
-**This is just a simple ffmpeg script for making the ffmpeg tool easy to use for beginners
+**This is just a simple ffmpeg script for making the ffmpeg tool easy to use for beginners**
 
 ## Installation
 
